@@ -7,8 +7,8 @@
 > Это публичная страница проекта: описание, история изменений и обратная связь. Исходный код закрыт.
 
 <p>
-  <img src="docs/screenshots/catalog.png" width="220" alt="Каталог">
-  <img src="docs/screenshots/listing.png" width="220" alt="Карточка объявления">
+  <img src="docs/screenshots/home.png" width="220" alt="Главная">
+  <img src="docs/screenshots/catalog.png" width="220" alt="Объявления в городе">
   <img src="docs/screenshots/compare.png" width="220" alt="Сравнение квартир">
   <img src="docs/screenshots/relocation.png" width="220" alt="Куда переехать">
 </p>
