@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Открыть Apartrent
+    url: https://t.me/apartrentrentbot
+    about: Поиск квартир в Telegram
+  - name: Канал проекта
+    url: https://t.me/apartrentrent
+    about: Новости и подборки
